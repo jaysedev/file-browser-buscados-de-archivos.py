@@ -1,4 +1,4 @@
-# file-browser-buscados-de-archivos
+# file-browser-buscados-de-archivos PYTHON
 is a simple file browser for your pc/es un buscador de archivos simple para tu pc
 
 ESPAÑOL
