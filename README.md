@@ -19,7 +19,7 @@ Contribuciones
 Las contribuciones son bienvenidas. Si desea contribuir a este proyecto, abra un issue o envíe una solicitud de extracción
 
 
-INGLES
+ENGLISH
 
 File Searcher
 This is a basic file searcher created with the Tkinter library in Python. It allows the user to search for a file on their system and then open it.
